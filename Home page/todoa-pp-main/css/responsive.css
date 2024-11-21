@@ -36,6 +36,9 @@
         height: 41px;
         font-size: 18px;
     }
+    .taskItem {
+     padding: 1px 5px;
+    }
  }
  @media (min-width: 576px) and (max-width: 767.98px) { 
     form input {
@@ -46,4 +49,4 @@
         font-size: 18px;
         height: 48px;
     }
-  }
+}

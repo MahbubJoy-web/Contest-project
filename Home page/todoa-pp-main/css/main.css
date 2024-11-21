@@ -124,7 +124,7 @@ form button{
    width: 100%;
    list-style: none;
    justify-content: center;
-   margin-left: -38px;
+   margin-left: -14px;
 }
 .taskItem {
    display: flex;
