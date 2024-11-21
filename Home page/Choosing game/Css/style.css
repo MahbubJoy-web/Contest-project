@@ -245,7 +245,8 @@ body{
 }
 @import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 .main button {
-  width: 50px;
+  margin-top: 30px;
+  padding: 5px 8px;
   font-size: 18px;
   font-weight: 500;
   font-family: cursive;
