@@ -70,6 +70,7 @@ let btn = () => {
  }
 
  let entwr=(item)=>{
+    e.preventDefault()
     if(item.key=='Enter'){
         console.log(item.target.className)
         if(item.target.className =='playeroneinput'){
